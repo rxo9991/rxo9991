@@ -1,7 +1,4 @@
-## 
-Hey, I'm RXO9991 
-a FiveM developer focused on creating high-quality resources.
-##
+## Hey, I'm RXO9991 ##
 
 - 🔨 **Currently working on:** Custom FiveM resources and scripts.
 - 💻 **Focused on:** Developing clean, optimized, and reliable code.
