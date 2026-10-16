@@ -1,6 +1,6 @@
-## Hi there👋
+## Hi there 👋
 
-- 🔭 **Currently working on:** Developing custom FiveM scripts and resources.
-- 📚 **Always learning:** Exploring new technologies and improving my development skills.
+- 🔭 **Currently working on:** Building custom FiveM scripts and resources.
+- 💻 **Focused on:** Developing clean, optimized, and reliable code.
 
-### 📫 Feel free to explore my repositories and check out what I'm working on!
+### 📫 Feel free to check out my repositories and follow my work!
